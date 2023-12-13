@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cloud security, Application security, Building Extraordinary Security Engineering Teams<br>👯 I’m looking to collaborate on Threat modeling, Appsec tools, CloudSec topics<br>🤝 I’m looking for help with exploring new ideas for security response automation<br>🌱 I’m currently learning #Go and Kubernetes<br>💬 Ask me about Bash, networking, firewalls, proxies, APIs, infrasec, AWS,GCP and Coffee places.<br>⚡ Fun fact, I have a tried and "tasted" list of best restaurants in EU.
+🔭 I’m currently working on building Product Security and Security Engineering Teams at one of the worlds biggest retailers. I’m looking to collaborate on Threat modeling, Appsec tools, CloudSec topics<br>🤝 I’m looking for help with exploring new ideas for security response automation<br>🌱 I’m currently learning #Go and Kubernetes<br>💬 Ask me about Bash, networking, firewalls, proxies, APIs, infrasec, AWS,GCP and Coffee places.<br>⚡ Fun fact, I have a tried and "tasted" list of best restaurants in EU.
 
 
 ## 🌐 Socials:
